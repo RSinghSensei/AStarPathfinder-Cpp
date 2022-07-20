@@ -1,0 +1,9 @@
+﻿  Renderer.cpp
+C:\Users\prade\source\repos\SoftwareRenderer\SoftwareRenderer\src\Renderer.cpp(232,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prade\source\repos\SoftwareRenderer\SoftwareRenderer\src\Renderer.cpp(234,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prade\source\repos\SoftwareRenderer\SoftwareRenderer\src\Renderer.cpp(335,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\prade\source\repos\SoftwareRenderer\SoftwareRenderer\src\Renderer.cpp(336,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\prade\source\repos\SoftwareRenderer\SoftwareRenderer\src\Renderer.cpp(340,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\prade\source\repos\SoftwareRenderer\SoftwareRenderer\src\Renderer.cpp(340,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\prade\source\repos\SoftwareRenderer\SoftwareRenderer\src\Renderer.cpp(444,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SoftwareRenderer.vcxproj -> C:\Users\prade\source\repos\SoftwareRenderer\bin\Win32\Debug\SoftwareRenderer.exe
